@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itsgurpreetsingh/LaundaryManagementSystemh.git"
+    "url": "git+https://github.com/Samar3007/Laundary-Management-System.git"
   },
-  "author": "Gurpreet",
+  "author": "Samarjeet",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/itsgurpreetsingh/LaundaryManagementSystemh/issues"
+    "url": "https://github.com/Samar3007/Laundary-Management-System.git/issues"
   },
-  "homepage": "https://github.com/itsgurpreetsingh/LaundaryManagementSystemh#readme",
+  "homepage": "https://github.com/Samar3007/Laundary-Management-System.git#readme",
   "dependencies": {
     "body-parser": "^1.20.2",
     "dotenv": "^16.3.1",
